@@ -29,7 +29,7 @@
 #define DEVICE_DIAGNOSTICS_METHOD_GET_AV_DECODER_STATUS "getAVDecoderStatus"
 #define DEVICE_DIAGNOSTICS_METHOD_GET_MILE_STONES "getMilestones"
 #define DEVICE_DIAGNOSTICS_METHOD_LOG_MILESTONE "logMilestone"
-
+//push pr
 #define DEVICE_DIAGNOSTICS_EVT_ON_AV_DECODER_STATUS_CHANGED "onAVDecoderStatusChanged"
 
 #define MILESTONES_LOG_FILE                     "/opt/logs/rdk_milestones.log"
